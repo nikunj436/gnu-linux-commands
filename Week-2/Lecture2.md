@@ -196,3 +196,8 @@ bash
 
 himBHs
 
+# [PS](/Week_2/Lecture5.md#ps)
+* ps -f   	: with parent PID
+* ps -e   	: with all process running
+* ps -ef  	: both combine
+* ps --forest 	: easy to see 
