@@ -194,5 +194,5 @@ bash
 * ` c ` - commands are read from arguments
 ` echo $- `
 
-
+himBHs
 
