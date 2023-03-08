@@ -109,12 +109,12 @@ Wednesday 21 December 2022 06:20:23 PM EET
 ~$ date -R
 Wed, 21 Dec 2022 18:21:43 +0200
 ```
-* Using commads binary path.
+* Using commads binary path.(also use to ecasape alias)
 ```terminal
 ~$ /usr/bin/date
 Wednesday 21 December 2022 06:23:34 PM EET
 ```
-* Executing from ` /usr/bin `
+* Executing from ` /usr/bin ` (also use to ecasape alias)
 ```terminal
 /usr/bin$ ./date
 Wednesday 21 December 2022 06:25:50 PM EET
