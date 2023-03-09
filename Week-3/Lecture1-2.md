@@ -64,7 +64,7 @@
 	
 * ` ( command1; command2; command3 ) ` 
 	- Execution of multiple commands by spawning subshells.
-	- ( echo $$ ) won't give you the PID of subshell because it's give parent Shell PID, for get the PID of subshell ( echo $BASHPID )
+	- (echo $$) won't give you the PID of subshell because it's give parent Shell PID, for get the PID of subshell (echo $BASHPID)
 		
 		```terminal
 		~$ ( date; echo $BASH_SUBSHELL )
