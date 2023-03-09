@@ -328,6 +328,10 @@ $ echo ${mydate:9:16}
 22 December 2022
 ```
 
+### Note before stating below pattern section 
+* "*" meaning here is diffrent - it's not wildcard here; 
+- In parameter expansion syntax, the * character can be used as part of the pattern matching syntax for removing substrings from the beginning or end of a string variable.
+
 ### Remove Prefix Matching a Pattern 
 * Match the string from the beginning.
 * Pattern is regex (later)
