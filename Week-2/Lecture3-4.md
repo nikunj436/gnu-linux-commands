@@ -493,8 +493,9 @@ echo ${myvar^^}
 ~$ echo ${mymonth^^}
 MARGALI
 ```
-## declare help 
 ## Set or Unset Attributes on  Value Types
+
+* help declare
 * Attributes are some restrictions.
 * ` declare [option] varname `
 * ` declare [option] varname=value... `
