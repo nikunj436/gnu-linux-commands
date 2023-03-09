@@ -658,6 +658,7 @@ Sunday Monday
 
 * Append an element with a value to the end of the array.
 	- Multiple elements can be separated with space
+	- please remember have use () to append other wise it's concatenate with first value
 ```bash
 arr+=("value")
 ```
