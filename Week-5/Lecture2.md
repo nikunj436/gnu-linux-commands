@@ -1,8 +1,11 @@
 # Shell Programming
 
+### sourceed   --> will have same PID
 - source script.sh
 - . script.sh
 
+### executed --> will have different PID
+- ./script.sh
 ## Control Structures
 
 ### if...then statement
