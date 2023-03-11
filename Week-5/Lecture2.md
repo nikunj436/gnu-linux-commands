@@ -1,5 +1,8 @@
 # Shell Programming
 
+- source script.sh
+- . script.sh
+
 ## Control Structures
 
 ### if...then statement
