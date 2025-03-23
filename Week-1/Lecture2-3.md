@@ -394,7 +394,7 @@ rm: remove directory 'level2'? n
 [back](#rm_b)
 
 ### ` alias `
-* ` alias ` : List all ` alias`ed commands. [More on ` alias `](#/Week_2/Lecture1.md#more-on-alias)
+* ` alias ` : List all ` alias`ed commands. [More on ` alias `](#/Week-2/Lecture1.md#more-on-alias)
 * ` alias command="aliasing command" ` : Add an alias for ` command ` command.
 * Add ` alias ` for ` rm -i ` as ` rm ` command. 
 ```terminal
@@ -436,7 +436,7 @@ Sat, 17 Dec 2022 13:59:05 +0200
 
 ### ` ncal ` and ` cal `
 * ` ncal [month] [year] ` : Displays calendar of current month by default.
-* Both belong to the same gnu utility ` ncal `, orientation is the only difference.
+* Both belong to the same bsd utility ` ncal `, orientation is the only difference.
 * ` month ` in long, short text (case-insensitive) or number (1-12, works only when year is specified.) format.
 * ` year ` in `YY` or `YYYY` format.
 * Display calendar for November, 2022
@@ -498,7 +498,7 @@ groot sudo
 
 [back](#file_b)
 
-### [Hard Links](#/Week_2/Lecture_1.md#links, "More on links")
+### [Hard Links](#/Week-2/Lecture_1.md#links, "More on links")
 * inode number : An entry in the filesystem table about the location in the storage media.
 * Hard Links : 
 	- Files with same inode number. 
